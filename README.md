@@ -1,3 +1,3 @@
 # ERD-OJI-Base-Project
 Entity Relationship Diagram (ERD)
-![ERD Diagram](Base for ERD.png)
+![ERD Diagram](Base-for-ERD.png)
